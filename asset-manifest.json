@@ -1,18 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.9b0aa8b9.chunk.css",
-    "main.js": "/static/js/main.74039fff.chunk.js",
-    "main.js.map": "/static/js/main.74039fff.chunk.js.map",
+    "main.css": "/static/css/main.a7b9e22e.chunk.css",
+    "main.js": "/static/js/main.65663330.chunk.js",
+    "main.js.map": "/static/js/main.65663330.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.d1a30877.chunk.js": "/static/js/2.d1a30877.chunk.js",
-    "static/js/2.d1a30877.chunk.js.map": "/static/js/2.d1a30877.chunk.js.map",
+    "static/js/2.71c4749d.chunk.js": "/static/js/2.71c4749d.chunk.js",
+    "static/js/2.71c4749d.chunk.js.map": "/static/js/2.71c4749d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.81437fdef688f05d5e069da19f402e25.js": "/precache-manifest.81437fdef688f05d5e069da19f402e25.js",
+    "precache-manifest.14fc7468b0ef299dcd61ffd9f8cb1da2.js": "/precache-manifest.14fc7468b0ef299dcd61ffd9f8cb1da2.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.9b0aa8b9.chunk.css.map": "/static/css/main.9b0aa8b9.chunk.css.map",
+    "static/css/main.a7b9e22e.chunk.css.map": "/static/css/main.a7b9e22e.chunk.css.map",
     "static/media/facebook-brands.svg": "/static/media/facebook-brands.62d8b6ef.svg",
+    "static/media/fire-solid.svg": "/static/media/fire-solid.045f997c.svg",
     "static/media/github-brands.svg": "/static/media/github-brands.ec5bc1b3.svg",
-    "static/media/linkedin-in-brands.svg": "/static/media/linkedin-in-brands.1e01f0c0.svg"
+    "static/media/laptop-code-solid.svg": "/static/media/laptop-code-solid.6a8f9dd8.svg",
+    "static/media/linkedin-in-brands.svg": "/static/media/linkedin-in-brands.1e01f0c0.svg",
+    "static/media/microchip-solid.svg": "/static/media/microchip-solid.f70f1a06.svg",
+    "static/media/money-check-alt-solid.svg": "/static/media/money-check-alt-solid.59eb4593.svg"
   }
 }
