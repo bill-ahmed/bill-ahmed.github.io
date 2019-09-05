@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b0164dff23600fb7eb3ab93dcc34f285",
+    "revision": "78dff25f2e39bdd7a9ddd9889010d586",
     "url": "/index.html"
   },
   {
-    "revision": "a2a4c36f45d3ededc2a8",
-    "url": "/static/css/main.cebc29e9.chunk.css"
+    "revision": "8548779362bfb7fc850b",
+    "url": "/static/css/main.4afb0e91.chunk.css"
   },
   {
-    "revision": "63a45cbb5a817a69f6e0",
-    "url": "/static/js/2.e24b708b.chunk.js"
+    "revision": "838f41184d539e4bbdd0",
+    "url": "/static/js/2.1a261f71.chunk.js"
   },
   {
-    "revision": "a2a4c36f45d3ededc2a8",
-    "url": "/static/js/main.f77ace79.chunk.js"
+    "revision": "8548779362bfb7fc850b",
+    "url": "/static/js/main.36cec951.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
+  },
+  {
+    "revision": "663f603c3013d980c42ef48841dc49ac",
+    "url": "/static/media/Bilal_Ahmed_Resume.663f603c.pdf"
   },
   {
     "revision": "23856283af79d465d9fc0e5095a9bcdf",
@@ -62,10 +66,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9e7f11a8f2c193fa45545ccef9daff98",
     "url": "/static/media/dslr_icon.9e7f11a8.svg"
-  },
-  {
-    "revision": "62d8b6ef8e6c796a5ddad822dff96874",
-    "url": "/static/media/facebook-brands.62d8b6ef.svg"
   },
   {
     "revision": "045f997c1221322246cdd8be0580b226",
