@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "89071c6401edccf6fff52615e8f376b1",
+    "revision": "d9553d4c53217f746a7d7c4456389a59",
     "url": "/index.html"
   },
   {
-    "revision": "9b698bb721983393e544",
-    "url": "/static/css/main.d0a41699.chunk.css"
+    "revision": "fd8327d5a3a2b885ee59",
+    "url": "/static/css/main.588ba2eb.chunk.css"
   },
   {
-    "revision": "726981c0b0e5dadf2e49",
-    "url": "/static/js/2.c693d8d6.chunk.js"
+    "revision": "a8b6fe290d19513f3a18",
+    "url": "/static/js/2.8ae59d93.chunk.js"
   },
   {
-    "revision": "9b698bb721983393e544",
-    "url": "/static/js/main.f48947e8.chunk.js"
+    "revision": "fd8327d5a3a2b885ee59",
+    "url": "/static/js/main.e13eb340.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "a04246f107784b9a5ec4985313adde66",
-    "url": "/static/media/Bilal_Ahmed_Resume.a04246f1.pdf"
+    "revision": "42028801f64ad7fb860359b97d78c367",
+    "url": "/static/media/Bilal_Ahmed_Resume.42028801.pdf"
   },
   {
     "revision": "23856283af79d465d9fc0e5095a9bcdf",
@@ -70,6 +70,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "79403a12af806622db2c8e6733ba24c3",
     "url": "/static/media/dslr_icon.79403a12.svg"
+  },
+  {
+    "revision": "748bb4b41ac9d5eaefa78fb753664a24",
+    "url": "/static/media/earth_globe_icon.748bb4b4.svg"
   },
   {
     "revision": "045f997c1221322246cdd8be0580b226",
