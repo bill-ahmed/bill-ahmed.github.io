@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d9553d4c53217f746a7d7c4456389a59",
+    "revision": "5d7f4e4511a686b364f31d4ca80531fd",
     "url": "/index.html"
   },
   {
-    "revision": "fd8327d5a3a2b885ee59",
-    "url": "/static/css/main.588ba2eb.chunk.css"
+    "revision": "792b079311b63b578bea",
+    "url": "/static/css/main.0a60a93d.chunk.css"
   },
   {
-    "revision": "a8b6fe290d19513f3a18",
-    "url": "/static/js/2.8ae59d93.chunk.js"
+    "revision": "0e71e2138eef44a6f585",
+    "url": "/static/js/2.98acc630.chunk.js"
   },
   {
-    "revision": "fd8327d5a3a2b885ee59",
-    "url": "/static/js/main.e13eb340.chunk.js"
+    "revision": "792b079311b63b578bea",
+    "url": "/static/js/main.fc0c1ff5.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/IMG_3721.d0a319f6.JPG"
   },
   {
-    "revision": "01e4da56c39ff5d6ed1cade4cd6eeb86",
-    "url": "/static/media/code_icon.01e4da56.svg"
+    "revision": "29d331d42a6edc030b8cba5de3d6e97e",
+    "url": "/static/media/code_icon.29d331d4.svg"
   },
   {
     "revision": "40cba9e0f44868b42f0c9a31bfdc4fae",
@@ -68,8 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ddsblaze_undo_checkin.1f4f948d.jpg"
   },
   {
-    "revision": "79403a12af806622db2c8e6733ba24c3",
-    "url": "/static/media/dslr_icon.79403a12.svg"
+    "revision": "c98e42deb2ea2b76f893c893ae233105",
+    "url": "/static/media/dslr_icon.c98e42de.svg"
   },
   {
     "revision": "748bb4b41ac9d5eaefa78fb753664a24",
@@ -110,6 +110,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b80343c42079e74c07a815595ce6c3fb",
     "url": "/static/media/motion_pong_splashscreen.b80343c4.jpg"
+  },
+  {
+    "revision": "340318c78bbb1727fc80bf51974a8d03",
+    "url": "/static/media/splash_screen.340318c7.png"
   },
   {
     "revision": "b64b15e1d03ded6ae5b015c08d3a0a19",
