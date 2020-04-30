@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "33d47f73316e904dcefb5ac816ea953c",
+    "revision": "5171e912a3ec11364e2185472113cf84",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.a641e29a.chunk.css"
   },
   {
-    "revision": "e4af909f6b3ba2e12683",
+    "revision": "9794d684ccfd67ba6430",
     "url": "/static/css/main.4a807385.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.40bf154f.chunk.js.LICENSE"
   },
   {
-    "revision": "e4af909f6b3ba2e12683",
-    "url": "/static/js/main.5fba7876.chunk.js"
+    "revision": "9794d684ccfd67ba6430",
+    "url": "/static/js/main.823b58c6.chunk.js"
   },
   {
     "revision": "00d90eb79a1abb3b6366",
@@ -96,10 +96,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/fire-solid.045f997c.svg"
   },
   {
-    "revision": "26437031c068aa56af739f78f34e33ef",
-    "url": "/static/media/gnu_bash.26437031.svg"
-  },
-  {
     "revision": "3c238117b8cdb77161031310f6fb7c41",
     "url": "/static/media/itineraries.3c238117.jpg"
   },
@@ -130,6 +126,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b80343c42079e74c07a815595ce6c3fb",
     "url": "/static/media/motion_pong_splashscreen.b80343c4.jpg"
+  },
+  {
+    "revision": "058bf664e7ce8e535db75b1be8fd67ac",
+    "url": "/static/media/slack_icon.058bf664.svg"
   },
   {
     "revision": "340318c78bbb1727fc80bf51974a8d03",
